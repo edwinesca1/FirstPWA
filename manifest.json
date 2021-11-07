@@ -1,0 +1,26 @@
+{
+  "name": "Counter App React",
+  "short_name": "Counter React",
+  "description": "Counter app developed with React in React course from Udemy",
+  "background_color": "#333333",
+  "theme_color": "#333333",
+  "start_url": "./",
+  "scope": "./",
+  "lang": "en-US",
+  "display": "fullscreen",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "assests/manifest-icon-192.maskable.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "assests/manifest-icon-512.maskable.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
